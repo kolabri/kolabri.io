@@ -1,0 +1,5 @@
+node_modules
+/assets/css/style.css
+.hugo_build.lock
+resources
+public
