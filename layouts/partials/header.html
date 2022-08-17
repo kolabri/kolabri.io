@@ -1,4 +1,4 @@
-<header x-data="{ showBurgerMenu: false }" class="border-b border-gray-100 bg-koblue">
+<header x-data="{ showBurgerMenu: false }" class="border-b border-gray-300">
   <div
     class="flex items-center justify-between h-16 mx-auto max-w-screen-2xl sm:px-6 lg:px-8"
   >
@@ -22,20 +22,23 @@
       </button>
 
       <a href="/" class="flex">
-        <img src="/capraro-dorner-logo.svg" alt="Capraro Dorner Logo" class="h-10">
+        <img src="/kolabri-on-white.svg" alt="Kolabri Logo" class="h-14">
       </a>
 
     </div>
 
-    <div class="flex items-center justify-end flex-1">
-      <nav
+    <div class="flex items-center justify-left flex-1">
+      <!--<nav
         class="hidden md:text-xl md:text-gray-800 md:tracking-wide md:space-x-4 md:flex md:font-thin"
+      >-->
+      <nav
+        class="hidden md:flex ml-12 space-x-6 md:text-l md:text-gray-800 md:tracking-wide md:font-medium"
       >
       {{ $currentPage := . }}
       {{ range .Site.Menus.main }}
         <a
           href="{{ .URL }}"
-          class="block h-16 leading-[4rem] hover:text-[#DE084A]"
+          class="block h-16 leading-[4rem] hover:text-koblue"
         >
           {{ .Name }}
         </a>
@@ -46,12 +49,12 @@
   </div>
 
   <div x-show="showBurgerMenu">
-    <nav class="text-xl text-gray-800 p-4 font-thin md:hidden">
+    <nav class="text-l text-gray-800 p-4 font-medium md:hidden">
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
       <a
         href="{{ .URL }}"
-        class="block h-16 leading-[4rem] hover:text-[#DE084A]"
+        class="block h-16 leading-[4rem] hover:text-koblue"
       >
         {{ .Name }}
       </a>
