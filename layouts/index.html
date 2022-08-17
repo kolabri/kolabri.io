@@ -1,0 +1,71 @@
+{{ define "main" }}
+  <!-- aside header -->
+  <aside>
+    <div class="bg-gradient-to-b from-[#DE084A] to-[#DE084A] relative z-10">
+      <div class="text-white max-w-screen-xl px-4 pt-20 mx-auto lg:items-center lg:flex">
+        <div class="max-w-xl mx-auto">
+          <h1 class="text-3xl font-extrabold sm:text-5xl">
+             Transfer Pricing for InnerSource
+          </h1>
+
+          <p class="mt-4 sm:leading-relaxed text-xl sm:text-2xl font-thin">
+            InnerSource and taxation don't have to be at odds. We help you implement lightweight transfer pricing models for your InnerSource program - zero impediments to collaboration.
+          </p>
+
+          <div class="flex flex-wrap justify-left gap-4 mt-8">
+            <a class="text-center block w-full px-12 py-3 text-[#DE084A] bg-white rounded shadow sm:w-auto hover:text-[#DE084A] active:text-red-500" href="/services/transfer-pricing-and-innersource/">
+              Find Out More
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="skew-y-2 h-40 bg-[#DE084A] -translate-y-20 relative z-0"></div>
+  </aside>
+
+  <!-- some page content -->
+  <div class="px-4 pb-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:pb-20">
+    <div class="grid gap-8 row-gap-5 lg:grid-cols-3">
+
+      {{ partial "home-block-heavy.html" (dict 
+        "title" "Company" 
+        "bg_class" "bg-[#0E7491]"
+        "text" "More about Capraro Dorner, where we come from, where we are headed, and who our partners are." 
+        "href" "/company")
+      }}
+
+      {{ partial "home-block-heavy.html" (dict 
+        "title" "Consulting Services" 
+        "bg_class" "bg-[#DE084A]"
+        "text" "All about how we can help you to launch and accelerate your InnerSource program."
+        "href" "/services")
+      }}
+
+      {{ partial "home-block-heavy.html" (dict 
+        "title" "Blog" 
+        "bg_class" "bg-[#B2A719]"
+        "text" "The latest insights on InnerSource, transfer pricing, analytics, and more." 
+        "href" "/blog")
+      }}
+
+      {{ partial "home-block-light.html" (dict 
+        "title" "Latest Article on Transfer Pricing" 
+        "text" "Our latest article on using cost contribution agreements for transfer pricing in InnerSource." 
+        "href" "/blog/2022/06/article-transfer-pricing-in-innersource-with-cost-contribution-agreements")
+      }}
+
+      {{ partial "home-block-light.html" (dict 
+        "title" "From Zero to InnerSource" 
+        "text" "Adopt, scale, govern InnerSource with proven building blocks and known best practices." 
+        "href" "/services/from-zero-to-innersource")
+      }}
+
+      {{ partial "home-block-light.html" (dict 
+        "title" "InnerSource Assessment" 
+        "text" "In-detph assessment of your InnerSource program's practices, elements, risks and successes." 
+        "href" "/services/assessment")
+      }}
+    
+    </div>
+  </div>
+{{ end }}

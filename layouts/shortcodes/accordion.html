@@ -1,0 +1,33 @@
+{{ if .Params.open }}
+<details class="group mb-4" open>
+{{ else }}
+<details class="group mb-4">
+{{ end }}
+  <summary class="flex items-center justify-between p-4 rounded-lg cursor-pointer border rounded shadow-sm">
+    <h3 class="my-0">
+      <span class="font-light">{{ .Params.prefix }}</span>{{ .Params.title}}
+    </h3>
+    {{ if .Params.label }}
+    <strong class="border border-[#0E7491] text-white bg-[#0E7491] uppercase px-5 py-0.5 rounded-full text-[10px] tracking-wide">
+      {{ .Params.label }}
+    </strong>
+    {{ end }}
+    <svg
+      class="flex-shrink-0 ml-1.5 w-5 h-5 transition duration-300 group-open:-rotate-180"
+      xmlns="http://www.w3.org/2000/svg"
+      fill="none"
+      viewBox="0 0 24 24"
+      stroke="currentColor"
+    >
+      <path
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+        d="M19 9l-7 7-7-7"
+      />
+    </svg>
+  </summary>
+  <div class="px-4 mt-4 leading-relaxed text-gray-700">
+    {{ .Inner | markdownify }}
+  </div>
+</details>

@@ -1,0 +1,19 @@
+{{define "main"}}
+<div class="px-4 pb-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:pb-20">
+  
+  <h2>{{ .Title }}</h2>
+
+  <article class="prose">
+    {{ .Content }}
+    <div class="grid gap-4 row-gap-5 lg:grid-cols-3">
+      {{ range .Pages }}
+      <a 
+        class="block relative no-underline text-center mb-4 px-4 py-8 p-px overflow-hidden transition duration-300 border rounded shadow-sm hover:scale-105 font-semibold text-[#DE084A]" href="{{.Permalink}}"
+      >
+        {{.Title}} →
+      </a>
+      {{ end }}
+    </div>
+  </article>
+</div>
+{{end}}

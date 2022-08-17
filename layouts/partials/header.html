@@ -1,0 +1,62 @@
+<header x-data="{ showBurgerMenu: false }" class="border-b border-gray-100 bg-koblue">
+  <div
+    class="flex items-center justify-between h-16 mx-auto max-w-screen-2xl sm:px-6 lg:px-8"
+  >
+
+    <div class="flex items-center">
+      <button type="button" class="p-2 md:mr-6 md:hidden" @click="showBurgerMenu = !showBurgerMenu">
+        <svg
+          class="w-6 h-6"
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M4 6h16M4 12h16M4 18h16"
+          />
+        </svg>
+      </button>
+
+      <a href="/" class="flex">
+        <img src="/capraro-dorner-logo.svg" alt="Capraro Dorner Logo" class="h-10">
+      </a>
+
+    </div>
+
+    <div class="flex items-center justify-end flex-1">
+      <nav
+        class="hidden md:text-xl md:text-gray-800 md:tracking-wide md:space-x-4 md:flex md:font-thin"
+      >
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}
+        <a
+          href="{{ .URL }}"
+          class="block h-16 leading-[4rem] hover:text-[#DE084A]"
+        >
+          {{ .Name }}
+        </a>
+      {{ end }}
+      </nav>
+
+    </div>
+  </div>
+
+  <div x-show="showBurgerMenu">
+    <nav class="text-xl text-gray-800 p-4 font-thin md:hidden">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+      <a
+        href="{{ .URL }}"
+        class="block h-16 leading-[4rem] hover:text-[#DE084A]"
+      >
+        {{ .Name }}
+      </a>
+    {{ end }}
+    </nav>
+  </div>
+
+</header>

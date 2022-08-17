@@ -1,0 +1,38 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Home'
+disableKinds = ["taxonomy","taxonomyTerm"]
+
+[permalinks]
+  blog = '/blog/:year/:month/:title/'
+
+[[menu.main]]
+    name = "Home"
+    identifier = "home"
+    url = "/"
+    weight = 100
+[[menu.main]]
+    name = "Services"
+    identifier = "services"
+    url = "/services"
+    weight = 200
+[[menu.main]]
+    name = "Blog"
+    identifier = "blog"
+    url = "/blog"
+    weight = 300
+[[menu.main]]
+    name = "Company"
+    identifier = "company"
+    url = "/company"
+    weight = 400
+[[menu.main]]
+    name = "Contact"
+    identifier = "contact"
+    url = "/contact"
+    weight = 500
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
