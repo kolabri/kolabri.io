@@ -4,7 +4,7 @@ date: 2022-03-31T16:38:22+02:00
 draft: false
 ---
 
-Kolabri is a software engineering consultancy from Bavaria. We are helping you to adopt, measure, and govern InnerSource in your organization.
+Kolabri helps you to adopt, measure, and govern InnerSource in your organization.
 
 
 ### Maximilian Capraro
