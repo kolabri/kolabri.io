@@ -1,26 +1,26 @@
 {{ define "main" }}
   <!-- aside header -->
   <aside>
-    <div class="bg-gradient-to-b from-[#DE084A] to-[#DE084A] relative z-10">
-      <div class="text-white max-w-screen-xl px-4 pt-20 mx-auto lg:items-center lg:flex">
+    <div class="bg-gradient-to-r bg-gray-200 relative z-10">
+      <div class="max-w-screen-xl px-4 py-20 mx-auto lg:items-center lg:flex mb-14">
         <div class="max-w-xl mx-auto">
-          <h1 class="text-3xl font-extrabold sm:text-5xl">
-             Transfer Pricing for InnerSource
-          </h1>
+          <h2 class="text-3xl font-extrabold sm:text-5xl text-pink-400">
+             Transfer Pricing for InnerSource <span class="text-koblue">- made easy</koblue>
+          </h2>
 
-          <p class="mt-4 sm:leading-relaxed text-xl sm:text-2xl font-thin">
+          <p class="mt-4 sm:leading-relaxed text-lg sm:text-xl">
             InnerSource and taxation don't have to be at odds. We help you implement lightweight transfer pricing models for your InnerSource program - zero impediments to collaboration.
           </p>
 
           <div class="flex flex-wrap justify-left gap-4 mt-8">
-            <a class="text-center block w-full px-12 py-3 text-[#DE084A] bg-white rounded shadow sm:w-auto hover:text-[#DE084A] active:text-red-500" href="/services/transfer-pricing-and-innersource/">
-              Find Out More
+            <a class="text-center font-medium block w-full px-12 py-3 text-koblue bg-white rounded shadow sm:w-auto hover:text-koblue active:text-red-500" href="/services/transfer-pricing-and-innersource/">
+              Learn more →
             </a>
           </div>
         </div>
       </div>
     </div>
-    <div class="skew-y-2 h-40 bg-[#DE084A] -translate-y-20 relative z-0"></div>
+    <!--<div class="skew-y-2 h-40 bg-[#DE084A] -translate-y-20 relative z-0"></div>-->
   </aside>
 
   <!-- some page content -->
@@ -29,21 +29,21 @@
 
       {{ partial "home-block-heavy.html" (dict 
         "title" "Company" 
-        "bg_class" "bg-[#0E7491]"
+        "bg_class" "bg-lime-500"
         "text" "More about Capraro Dorner, where we come from, where we are headed, and who our partners are." 
         "href" "/company")
       }}
 
       {{ partial "home-block-heavy.html" (dict 
         "title" "Consulting Services" 
-        "bg_class" "bg-[#DE084A]"
+        "bg_class" "bg-koblue"
         "text" "All about how we can help you to launch and accelerate your InnerSource program."
         "href" "/services")
       }}
 
       {{ partial "home-block-heavy.html" (dict 
         "title" "Blog" 
-        "bg_class" "bg-[#B2A719]"
+        "bg_class" "bg-pink-400"
         "text" "The latest insights on InnerSource, transfer pricing, analytics, and more." 
         "href" "/blog")
       }}
