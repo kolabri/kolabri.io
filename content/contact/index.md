@@ -8,12 +8,13 @@ Reach out to us anytime - we look forward to hearing from you.
 
 <div class="pl-4">
   <address>
-    Capraro Dorner Softwareingenieure PartG<br/>
+    Kolabri </br>
+    by Capraro Dorner Softwareingenieure PartG<br/>
     Saarlandstraße 2<br/>
     92318 Neumarkt i. d. Opf.<br/>
     Germany<br/>
     <br/>
-    <a href="mailto:mail@caprarodorner.de">mail@caprarodorner.de</a>
+    <a href="mailto:mail@kolabri.io">mail@kolabri.io</a>
   </address>
 </div>
 
