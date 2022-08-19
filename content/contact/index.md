@@ -13,7 +13,7 @@ Reach out to us anytime - we look forward to hearing from you.
     92318 Neumarkt i. d. Opf.<br/>
     Germany<br/>
     <br/>
-    <a href="mailto:mail@caprarodorner.de" class="text-[#DE084A]">mail@caprarodorner.de</a>
+    <a href="mailto:mail@caprarodorner.de">mail@caprarodorner.de</a>
   </address>
 </div>
 

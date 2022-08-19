@@ -4,13 +4,16 @@
 @tailwind utilities;
 
 @layer base {
-  h2 {
-    @apply mt-8 mb-4 text-4xl font-thin
+  h1 {
+    @apply mt-12 mb-6 text-4xl text-gray-800
   }
   details > summary {
     list-style: none;
   }
   details > summary::-webkit-details-marker {
     display: none;
+  }
+  .prose :not(nav) a {
+    @apply text-koblue border-koblue no-underline font-medium hover:underline
   }
 }
