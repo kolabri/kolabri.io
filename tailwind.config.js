@@ -1,5 +1,6 @@
 module.exports = {
   content: ['./layouts/**/*.html', './content/**/*.md'],
+  important: true,
   theme: {
     extend: {
       typography: {
