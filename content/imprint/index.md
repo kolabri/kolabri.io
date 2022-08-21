@@ -5,7 +5,7 @@ date: 2022-03-31T16:37:50+02:00
 draft: false
 ---
 
-The following information is required for websites operated by German organizations or organizations doing business within Germany. Hence, it is written in German.
+Kolabri is a consulting offering provided by Capraro Dorner Softwareingenieure Partnerschaft. The following information is required for websites operated by German organizations or organizations doing business within Germany. Hence, it is written in German.
 
 ---
 
