@@ -1,5 +1,6 @@
 ---
 title: "Transfer Pricing in InnerSource with Cost Contribution Agreements"
+slug: 'article-transfer-pricing-innersource-mnetax'
 date: 2022-06-01T16:00:00+02:00
 draft: false
 description: "Our latest article on transfer pricing in InnerSource (published in MNETAX) explores cost contribution agreements for transfer pricing in your InnerSource program."
