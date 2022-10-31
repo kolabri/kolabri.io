@@ -4,7 +4,7 @@ title = 'Home'
 disableKinds = ["taxonomy","taxonomyTerm"]
 
 [permalinks]
-  blog = '/blog/:year/:month/:title/'
+  blog = '/blog/:year/:slug/'
 
 [[menu.main]]
     name = "Home"
