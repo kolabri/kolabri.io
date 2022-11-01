@@ -20,7 +20,7 @@ Reach out to Max via <a href="mailto:max@kolabri.io">max@kolabri.io</a>.
 
 ### Michael Dorner
 
-Michael Dorner is a partner a co-founder of Kolabri, where he helps companies kick-start and scale their InnerSource programs.
+Michael Dorner is a co-founder of Kolabri, where he helps companies kick-start and scale their InnerSource programs.
 
 Michael holds a researcher position at Blekinge Institute of Technology (BTH) in Sweden. In a prior life, he worked as a data scientist and software developer in Siemens Healthcare. In his work, Michael focuses on leveraging software development simulation and data analytics to understand how developers communicate and collaborate - which is also the theoretical backbone for his pragmatic consulting on InnerSource and software engineering.
 
