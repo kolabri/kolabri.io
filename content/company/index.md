@@ -29,4 +29,11 @@ Reach out to Michael via <a href="mailto:michael@kolabri.io">michael@kolabri.io<
 
 ### Our Partners
 
-InnerSource adoption touches many disciplines. When it comes to taxation and transfer pricing for your InnerSource program, we are happy to offer you joint services with our partners at <a href="http://www.tp-and-c.com/" target="_blank">TP & C GmbH</a> - an experienced team of pragmatic transfer pricing specialists.
+<div class="flex flex-col sm:flex-row sm:space-x-4">
+  <div class="sm:flex-none">
+    <img src="/tp-and-c.png" alt="Logo of our partner TP&C GmbH" class="h-16 sm:h-16">
+  </div>
+  <div class="sm:grow sm:mt-4">
+    InnerSource adoption touches many disciplines. When it comes to taxation and transfer pricing for your InnerSource program, we are happy to offer you joint services with our partners at <a href="http://www.tp-and-c.com/" target="_blank">TP&C GmbH</a> - an experienced team of pragmatic transfer pricing specialists.
+  </div>
+</div>
