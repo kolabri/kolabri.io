@@ -36,6 +36,6 @@ The results of the contribution-flow benchmark and proposed action items are pre
 {{< accordion prefix="" title="InnerSource Dashboard" label="coming soon" >}}
 There are situations where you want immediate feedback: How did last week’s evangelizing event accelerate InnerSource contributions in departments that were coldspots of InnerSource collaboration? How is the contribution-flow adapting to the new practices you proposed to one of your favorite InnerSource projects? How successful was last month’s work? How is my team’s SCRUM workflow interacting with InnerSource?
 
-We are developing an integrated suite of InnerSource dashboards that help you understand your InnerSource program and projects in real-time. Want to get early access? [Reach out to us!](mailto:mail@caprarodorner.de){{< /accordion >}}
+We are developing an integrated suite of InnerSource dashboards that help you understand your InnerSource program and projects in real-time. Want to get early access? [Reach out to us!](mailto:info@kolabri.io){{< /accordion >}}
 
-Of course, all consulting packages above can be tailored to your specific needs. Would you like our help with other topics? [Reach out to us now](mailto:mail@caprarodorner.de) or check out our [additional service offerings on InnerSource](/services). We are happy to support you.
+Of course, all consulting packages above can be tailored to your specific needs. Would you like our help with other topics? [Reach out to us now](mailto:info@kolabri.io) or check out our [additional service offerings on InnerSource](/services). We are happy to support you.

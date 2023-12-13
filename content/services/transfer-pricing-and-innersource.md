@@ -52,4 +52,4 @@ This package delivers:
 - raw data export or connection to your controlling software
 {{< /accordion >}}
 
-Of course, all consulting packages above can be tailored to your specific needs. Would you like our help with other topics? [Reach out to us now](mailto:mail@caprarodorner.de) or check out our [additional service offerings on InnerSource](/services). We are happy to support you.
+Of course, all consulting packages above can be tailored to your specific needs. Would you like our help with other topics? [Reach out to us now](mailto:info@kolabri.io) or check out our [additional service offerings on InnerSource](/services). We are happy to support you.

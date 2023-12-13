@@ -31,7 +31,7 @@ Once implemented, you can:
 {{< /accordion >}}
 
 {{< accordion title="From Zero to InnerSource" label="coming soon">}}
-_From Zero to InnerSource_ will be our pipeline for adopting, scaling, and governing InnerSource in your collaboration - a set of well-defined, proven, and tightly integrated consulting packages. Do you want to be among the first to benefit? Feel free to [reach out to us](mailto:mail@caprarodorner.de) anytime. The service packages above already give you a small preview of some of the pipeline's components. 
+_From Zero to InnerSource_ will be our pipeline for adopting, scaling, and governing InnerSource in your collaboration - a set of well-defined, proven, and tightly integrated consulting packages. Do you want to be among the first to benefit? Feel free to [reach out to us](mailto:info@kolabri.io) anytime. The service packages above already give you a small preview of some of the pipeline's components. 
 {{< /accordion >}}
 
-Of course, all consulting packages above can be tailored to your specific needs. Would you like our help with other topics? [Reach out to us now](mailto:mail@caprarodorner.de) or check out our [additional service offerings on InnerSource](/services). We are happy to support you.
+Of course, all consulting packages above can be tailored to your specific needs. Would you like our help with other topics? [Reach out to us now](mailto:info@kolabri.io) or check out our [additional service offerings on InnerSource](/services). We are happy to support you.
