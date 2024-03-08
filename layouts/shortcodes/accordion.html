@@ -4,7 +4,7 @@
 <details class="group mb-4">
 {{ end }}
   <summary class="flex items-center justify-between p-4 rounded-lg cursor-pointer border rounded shadow-sm">
-    <h3 class="my-0">
+    <h3 class="my-0" id="{{ .Params.id }}">
       <span class="font-light">{{ .Params.prefix }}</span>{{ .Params.title}}
     </h3>
     {{ if .Params.label }}
