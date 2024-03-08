@@ -4,11 +4,11 @@ date: 2022-03-31T16:38:22+02:00
 draft: false
 ---
 
-Kolabri helps you to adopt, measure, and govern InnerSource in your organization.
+Kolabri offers tools & consulting services for transfer pricing in software engineering.
 
 ### Tom-Eric Kunz
 
-Tom is a co-founder of Kolabri, where he helps companies to implement or improve transfer pricing systems in their InnerSource programs.
+Tom is a co-founder of Kolabri, where he helps companies to implement transfer pricing strategies for their globally distributed software engineering.
 
 Tom has gained substantial transfer pricing experience in all kinds of intercompany transactions within groups operating in a wide scope of industries. As a senior consultant at TP&C, Tom identified and addressed potential compliance risks while optimizing the structuring of clients' cross-border transactions. He conducted customized economic analyses and documentation strategies to develop pragmatic transfer pricing systems at arm's length. 
 
@@ -18,7 +18,7 @@ Reach out to Tom via <a href="mailto:tom@kolabri.io">tom@kolabri.io</a>.
 
 ### Michael Dorner
 
-Michael Dorner is a co-founder of Kolabri, where he helps companies kick-start and scale their InnerSource programs.
+Michael Dorner is a co-founder of Kolabri, where he helps companies to implement transfer pricing strategies for their globally distributed software engineering.
 
 Michael holds a researcher position at Blekinge Institute of Technology (BTH) in Sweden. In a prior life, he worked as a data scientist and software developer in Siemens Healthcare. In his work, Michael focuses on leveraging software development simulation and data analytics to understand how developers communicate and collaborate - which is also the theoretical backbone for his pragmatic consulting on InnerSource and software engineering.
 
@@ -41,7 +41,7 @@ Reach out to Oliver via <a href="mailto:oliver@kolabri.io">oliver@kolabri.io</a>
 
 ### Maximilian Capraro
 
-Dr. Maximilian Capraro is a co-founder of Kolabri, where he helps companies kick-start and scale their InnerSource programs. 
+Dr. Maximilian Capraro is a co-founder of Kolabri, where he helps companies to implement transfer pricing strategies for their globally distributed software engineering.
 
 Max is member and assistant treasurer of the InnerSource Commons Foundation and served two terms on its board of directors. He is a (part-time) engineer at DATEV eG where he educates on InnerSource and co-founded one of the firm's most successful InnerSource projects. 
 

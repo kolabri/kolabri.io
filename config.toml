@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'InnerSource Consulting'
+title = 'Transfer Pricing for Software Companies'
 disableKinds = ["taxonomy","taxonomyTerm"]
 
 [permalinks]

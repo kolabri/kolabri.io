@@ -6,44 +6,48 @@
     <div class="grid gap-8 row-gap-5 lg:grid-cols-3 mt-12">
 
       {{ partial "home-block-heavy.html" (dict 
-        "title" "Company" 
+        "title" "Taxation & Software Engineering" 
         "bg_class" "bg-koblue"
-        "text" "More about Kolabri, where we come from, where we are headed, and who our partners are." 
-        "href" "/company")
+        "link_text" "Learn more"
+        "text" "A deep-dive into tax compliance for globally distributed software engineering." 
+        "href" "/blog")
       }}
 
       {{ partial "home-block-heavy.html" (dict 
         "title" "Consulting Services" 
         "bg_class" "bg-lime-500"
-        "text" "All about how we can help you to launch and accelerate your InnerSource program."
+        "link_text" "Learn more"
+        "text" "All about how we assure tax compliance for your software development."
         "href" "/services")
       }}
 
       {{ partial "home-block-heavy.html" (dict 
-        "title" "Blog" 
+        "title" "Schedule Free-of-Charge Call"
         "bg_class" "bg-amber-500"
-        "text" "The latest insights on InnerSource, transfer pricing, analytics, and more." 
+        "link_text" "Reach out"
+        "text" "Schedule a call about transfer pricing risks related to your software development." 
+        "href" "mailto:info@kolabri.io")
+      }}
+
+      {{ partial "home-block-light.html" (dict 
+        "title" "Blog" 
+        "text" "The latest insights at the intersection of transfer pricing and software engineering." 
         "href" "/blog")
       }}
 
       {{ partial "home-block-light.html" (dict 
-        "title" "Latest Article on Transfer Pricing" 
-        "text" "Our latest article on using cost contribution agreements for transfer pricing in InnerSource." 
-        "href" "/blog/2022/article-transfer-pricing-innersource-mnetax/")
-      }}
-
-      {{ partial "home-block-light.html" (dict 
-        "title" "From Zero to InnerSource" 
-        "text" "Adopt, scale, govern InnerSource with proven building blocks and known best practices." 
-        "href" "/services/from-zero-to-innersource")
-      }}
-
-      {{ partial "home-block-light.html" (dict 
-        "title" "InnerSource Assessment" 
-        "text" "In-detph assessment of your InnerSource program's practices, elements, risks and successes." 
-        "href" "/services/innersource-assessment")
+        "title" "Company" 
+        "text" "We bring decades of experience in software engineering and transfer pricing." 
+        "href" "/company")
       }}
     
+      {{ partial "home-block-heavy.html" (dict 
+        "title" "Emergency Support" 
+        "bg_class" "bg-red-600"
+        "link_text" "Reach out"
+        "text" "Immediate support for ongoing transfer pricing audits." 
+        "href" "mailto:info@kolabri.io")
+      }}
     </div>
   </div>
 {{ end }}
