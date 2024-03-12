@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Transfer Pricing for Software Companies'
+title = 'Tax Compliance for Software Companies'
 disableKinds = ["taxonomy","taxonomyTerm"]
 
 [permalinks]
