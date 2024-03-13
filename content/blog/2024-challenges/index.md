@@ -1,7 +1,7 @@
 ---
 title: 'Tax Compliance for Software Engineering: The Fundemental Challenges'
 slug: 'what-is-it-all-about'
-date: 2024-03-12T06:00:00+02:00
+date: 2024-03-19T06:00:00+02:00
 draft: false
 description: "The second article of our series on tax compliance for software engineering reveals the fundemantal challenges unique to software engineering."
 ---
