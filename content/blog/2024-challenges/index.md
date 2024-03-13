@@ -64,6 +64,6 @@ This means we cannot simply use purely quantitative measurements for transfer pr
 
 ## Conclusion
 
-If you want to learn more about how we at Kolabri addresses those challenges, read our brochure on how we leverage data analytics for tax compliance in software engineering. If you want to learn more about the prevalence of cross-border collaboration in modern collaborative software engineering and how we measured it, read [the next blog post in our series on tax compliance for software engineering]().
+If you want to learn more about how we at Kolabri address those challenges, read our brochure on data analytics for tax compliance in software engineering. If you want to learn more about the prevalence of cross-border collaboration in modern collaborative software engineering and how we measured it, stay tuned for the next blog post in our series on tax compliance for software engineering.
 
 This series is based on our research article ["Taxing Collaborative Software Engineering" published as open-access at IEEE Software](https://doi.ieeecomputersociety.org/10.1109/MS.2023.3346646). 
