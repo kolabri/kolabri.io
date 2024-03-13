@@ -1,19 +1,19 @@
 ---
-title: 'Tax Compliance for Software Engineering: What Is It All About?'
-slug: 'what-is-it-all-about'
+title: 'Tax Compliance in Software Engineering: What Is It All About?'
+slug: 'tax-compliance-in-software-engineering-what-is-it-all-about'
 date: 2024-03-12T06:00:00+02:00
 draft: false
-description: "The first article of our series on tax compliance for software engineering introduces you to the foundations of tax compliance for software engineering."
+description: "The first article of our series on tax compliance in software engineering introduces you to the foundations of international taxation."
 ---
 {{< post-author >}}
 Michael Dorner
 {{< /post-author >}}
 
-# Tax Compliance for Software Engineering: What Is It All About?
+# Tax Compliance in Software Engineering: What Is It All About?
 
 Modern software systems are often too large, too complex, and evolving too fast for single developers to oversee. Therefore, software engineering has become highly collaborative. Often, engineers and their teams collaborate across borders, especially in multinational companies with subsidiaries spread around the globe. This collaboration has an often overlooked legal implication if individuals collaborate across borders: the profits from those cross-border collaborations become taxable.
 
-In this first blog post in our series on tax compliance for software engineering, we start with a gentle introduction to international standards in multinational taxation and its basic arm's length principle from a software engineering perspective. And no worries, no prior knowledge or background is needed. In the following blog posts, we will then discuss the unique challenges of taxing collaborative software engineering and we will illustrate the industrial significance of cross-border collaboration in an industrial case, namely code review.
+In this first blog post in our series on tax compliance in software engineering, we start with a gentle introduction to international standards in multinational taxation and its basic arm's length principle from a software engineering perspective. And no worries, no prior knowledge or background is needed. In the following blog posts, we will then discuss the unique challenges of taxing collaborative software engineering and we will illustrate the industrial significance of cross-border collaboration in an industrial case, namely code review.
 
 ## A simplified example
 

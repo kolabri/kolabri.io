@@ -1,19 +1,19 @@
 ---
-title: 'Tax Compliance for Software Engineering: The Fundemental Challenges'
-slug: 'what-is-it-all-about'
+title: 'Tax Compliance in Software Engineering: The Fundemental Challenges'
+slug: 'tax-compliance-in-software-engineering-challenges'
 date: 2024-03-19T06:00:00+02:00
 draft: false
-description: "The second article of our series on tax compliance for software engineering reveals the fundemantal challenges unique to software engineering."
+description: "The second article of our series on tax compliance in software engineering reveals the fundemantal challenges unique to software engineering."
 ---
 {{< post-author >}}
 Michael Dorner
 {{< /post-author >}}
 
-# Tax Compliance for Software Engineering: The Fundemental Challenges
+# Tax Compliance in Software Engineering: The Fundemental Challenges
 
 Modern software systems are often too large, too complex, and evolving too fast for single developers to oversee. Therefore, software engineering has become highly collaborative. Often, engineers and their teams collaborate across borders, especially in multinational companies with subsidiaries spread around the globe. This collaboration has an often overlooked legal implication if individuals collaborate across borders: the profits from those cross-border collaborations become taxable.
 
-In this second blog post in our [series on tax compliance for software engineering](/content/blog/2024-what-is-it-all-about/_index.md), we will discuss the unique and fundamental challenges of taxing collaborative software engineering. In our the last article of our series we will illustrate the industrial significance of cross-border collaboration in an industrial case, namely code review.
+In this second blog post in our [series on tax compliance in software engineering](/content/blog/2024-what-is-it-all-about/_index.md), we will discuss the unique and fundamental challenges of taxing collaborative software engineering. In our the last article of our series we will illustrate the industrial significance of cross-border collaboration in an industrial case, namely code review.
 
 So, what are transfer prices for collaborative software engineering that comply with this arm's length principle? Determining a market price for intangibles is inherently difficult and is reflected in a broad price range. Collaborative software engineering, however, scales the problem of a transfer-price determination to a new level of complexity because the reality of modern software engineering is significantly more complex than our introductory example above may suggest. Since transfer price regulations apply to a much broader definition of intangibles compared to accounting standards, the latter can not be used as a reliable measure of value for transfer pricing purposes.
 
@@ -64,6 +64,6 @@ This means we cannot simply use purely quantitative measurements for transfer pr
 
 ## Conclusion
 
-If you want to learn more about how we at Kolabri address those challenges, read our brochure on data analytics for tax compliance in software engineering. If you want to learn more about the prevalence of cross-border collaboration in modern collaborative software engineering and how we measured it, stay tuned for the next blog post in our series on tax compliance for software engineering.
+If you want to learn more about how we at Kolabri address those challenges, read our brochure on data analytics for tax compliance in software engineering. If you want to learn more about the prevalence of cross-border collaboration in modern collaborative software engineering and how we measured it, stay tuned for the next blog post in our series on tax compliance in software engineering.
 
 This series is based on our research article ["Taxing Collaborative Software Engineering" published as open-access at IEEE Software](https://doi.ieeecomputersociety.org/10.1109/MS.2023.3346646). 
