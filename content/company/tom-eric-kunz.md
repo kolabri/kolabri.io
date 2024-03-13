@@ -4,6 +4,8 @@ date: 2024-03-12T16:00:00+02:00
 draft: false
 ---
 
+<img src="/tom-eric-kunz.png" alt="Photo of Tom-Eric Kunz" class="float-left m-0 w-44 h-44 mr-2 mt-2 rounded">
+
 Tom is a co-founder of Kolabri, where he helps companies to implement transfer pricing strategies for their globally distributed software engineering.
 
 Tom has gained substantial transfer pricing experience in all kinds of intercompany transactions within groups operating in a wide scope of industries. As a senior consultant at TP&C, Tom identified and addressed potential compliance risks while optimizing the structuring of clients' cross-border transactions. He conducted customized economic analyses and documentation strategies to develop pragmatic transfer pricing systems at arm's length. 

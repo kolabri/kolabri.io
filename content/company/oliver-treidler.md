@@ -4,6 +4,8 @@ date: 2024-03-12T16:00:00+02:00
 draft: false
 ---
 
+<img src="/oliver-treidler.png" alt="Photo of Dr. Oliver Treidler" class="float-left m-0 w-44 h-44 mr-2 mt-2 rounded">
+
 Dr. Oliver Treidler (born 1980) studied Business in Stuttgart, Germany from 2002 to 2005. In 2008 he obtained the MSc in International Economics and European Studies at Corvinus University of Budapest. From 2010 to 2013 he completed his Ph.D. in Economics at the University of Wuerzburg.
  
 From 2002 to 2006 Oliver completed an apprenticeship as an airline professional (Luftverkehrskaufmann) and worked in the accounting department of Deutsche Lufthansa AG as well as in the Budapest Field Office (until 2008).
