@@ -1,19 +1,19 @@
 ---
-title: 'Tax Compliance for Software Engineering: What Is It All About?'
-slug: 'what-is-it-all-about'
+title: 'Tax Compliance in Software Engineering: What Is It All About?'
+slug: 'tax-compliance-in-software-engineering-what-is-it-all-about'
 date: 2024-03-12T06:00:00+02:00
 draft: false
-description: "The first article of our series on tax compliance for software engineering introduces you to the foundations of tax compliance for software engineering."
+description: "The first article of our series on tax compliance in software engineering introduces you to the foundations of international taxation."
 ---
 {{< post-author >}}
 Michael Dorner
 {{< /post-author >}}
 
-# Tax Compliance for Software Engineering: What Is It All About?
+# Tax Compliance in Software Engineering: What Is It All About?
 
 Modern software systems are often too large, too complex, and evolving too fast for single developers to oversee. Therefore, software engineering has become highly collaborative. Often, engineers and their teams collaborate across borders, especially in multinational companies with subsidiaries spread around the globe. This collaboration has an often overlooked legal implication if individuals collaborate across borders: the profits from those cross-border collaborations become taxable.
 
-In this first blog post in our series on tax compliance for software engineering, we start with a gentle introduction to international standards in multinational taxation and its basic arm's length principle from a software engineering perspective. And no worries, no prior knowledge or background is needed. In the following blog posts, we will then discuss the unique challenges of taxing collaborative software engineering and we will illustrate the industrial significance of cross-border collaboration in an industrial case, namely code review.
+In this first blog post in our series on tax compliance in software engineering, we start with a gentle introduction to international standards in multinational taxation and its basic arm's length principle from a software engineering perspective. And no worries, no prior knowledge or background is needed. In the following blog posts, we will then discuss the unique challenges of taxing collaborative software engineering and we will illustrate the industrial significance of cross-border collaboration in an industrial case, namely code review.
 
 ## A simplified example
 
@@ -41,6 +41,6 @@ In the schematic overview above, we summarize the mechanics of our fictitious co
 
 The *devnullsoft Group* does not artificially shift profits to a tax haven. Yet, one can easily imagine that neglecting to charge arm's length prices can be intentionally misused for profit-shifting. Therefore, the OECD guidelines permit tax authorities like the Swedish tax authority to adjust the transfer price where the prices charged are outside an arm's length range. Such an adjustment will carry interest and might be coupled with penalties. In the wake of the OECD's [Base Erosion and Profit Shifting (BEPS) Project](https://www.oecd.org/tax/beps/), the regulatory framework has become considerably stricter at an international and national level. As a result, tax authorities can demand more comprehensive information to detect misalignments and enforce tax adjustments. From the companies' perspective, its software development may be (intentionally or unintentionally) non-compliant and face the risk of being legally prosecuted.
 
-Now that we understand the underlying mechanics of tax compliance and the transfer price at *arm's length* as its guiding principle, read our [next blog post, where we discuss the tax compliance challenges specific to software engineering](/content/blog/2024-challenges/_index.md).
+Now that we understand the underlying mechanics of tax compliance and the transfer price at *arm's length* as its guiding principle, read our [next blog post, where we discuss the tax compliance challenges specific to software engineering]({{<ref /content/blog/2024-challenges/_index.md>}}).
 
 This series is based on our research article ["Taxing Collaborative Software Engineering" published as open-access at IEEE Software](https://doi.ieeecomputersociety.org/10.1109/MS.2023.3346646).
