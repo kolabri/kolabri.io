@@ -25,7 +25,7 @@ In the following, we discuss three main high-level challenges for transfer prici
 
 ## Challenge 1: What is a taxable transaction in software engineering?
 
-The trouble for transfer pricing in software engineering begins with a fundamental question: What is actually a taxable transaction in the context of collaborative software engineering? We simply do not know what types or characteristics types or characteristics classify a taxable exchange of intangibles or services across the boundaries of a country in the context of software engineering.
+The trouble for transfer pricing in software engineering begins with a fundamental question: What is actually a taxable transaction in the context of collaborative software engineering? It is not immediately clear what types or characteristics classify a taxable exchange of intangibles or services across the boundaries of a country in the context of software engineering.
 
 Among other potentially relevant types of taxable intangibles, such as *goodwill* or *group synergies*, we discuss in this and the following subsections two types of intangibles that are highly relevant for software engineering: *know-how* and *licenses*.
 
