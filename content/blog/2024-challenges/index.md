@@ -9,7 +9,7 @@ description: "The second article of our series on tax compliance for software en
 Michael Dorner
 {{< /post-author >}}
 
-# Tax Compliance for Software Engineering: The Fundemental Challenges in Software Engineering
+# Tax Compliance for Software Engineering: The Fundemental Challenges
 
 Modern software systems are often too large, too complex, and evolving too fast for single developers to oversee. Therefore, software engineering has become highly collaborative. Often, engineers and their teams collaborate across borders, especially in multinational companies with subsidiaries spread around the globe. This collaboration has an often overlooked legal implication if individuals collaborate across borders: the profits from those cross-border collaborations become taxable.
 
