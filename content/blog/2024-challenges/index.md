@@ -27,7 +27,7 @@ In the following, we discuss three main high-level challenges for transfer prici
 
 The trouble for transfer pricing in software engineering begins with a fundamental question: What is actually a taxable transaction in the context of collaborative software engineering? It is not immediately clear what types or characteristics classify a taxable exchange of intangibles or services across the boundaries of a country in the context of software engineering.
 
-Among other potentially relevant types of taxable intangibles, such as *goodwill* or *group synergies*, we discuss in this and the following subsections two types of intangibles that are highly relevant for software engineering: *know-how* and *licenses*.
+Among other potentially relevant types of taxable intangibles, such as *goodwill* or *group synergies*, this blog post focusses on two types of intangibles that are highly relevant for software engineering: *know-how* and *licenses*.
 
 The OECD Transfer Pricing Guidelines define *know-how* as the "proprietary information or knowledge that assist[s] or improve[s] a commercial activity, but that [is] not registered for protection in the manner of a patent or trademar". The commercial activity includes the manufacturing, marketing, research and development of and for a software system.
 
