@@ -8,6 +8,8 @@ Modern software development is now more spontaneous, integrated, collaborative, 
 
 At Kolabri, we bring decades of experience in both worlds, software engineering and transfer pricing, and unravel the complexity of modern software engineering processes for your tax compliance. We offer multiple service packages to help you comply with necessary taxation regulations while not introducing impediments to software development.
 
+Checkout our new brochure on [data analytics for transfer pricing in software engineering](/docs/Data%20Analytics%20for%20Transfer%20Pricing%20in%20Software%20Companies.pdf) to learn more about the approach underlying our consulting services.
+
 {{< accordion prefix="Package 1: " title="Introductory Workshop" id="1-intro-workshop">}}
 During our introductory workshop, we walk you through both words: We introduce modern collaborative software engineering to tax experts; and the foundations of transfer pricing and the arm's length principle to developers and engineering managers. We discuss potential transfer pricing issues in your software development setup.
 
