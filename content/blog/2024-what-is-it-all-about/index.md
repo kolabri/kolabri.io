@@ -41,6 +41,6 @@ The *devnullsoft Group* does not artificially shift profits to a tax haven. Yet,
 
 ## Conclusion
 
-Now that we understand the underlying mechanics of tax compliance and the transfer price at *arm's length* as its guiding principle, read the [next blog post in this series, where we discuss the tax compliance challenges specific to software engineering]({{<ref "/blog/2024-challenges">}}).
+Now that we understand the underlying mechanics of tax compliance and the transfer price at *arm's length* as its guiding principle, read the [next blog post in this series]({{<ref "/blog/2024-challenges">}}), where we discuss the tax compliance challenges specific to software engineering.
 
-This series is based on our research article ["Taxing Collaborative Software Engineering" published as open-access at IEEE Software](https://doi.ieeecomputersociety.org/10.1109/MS.2023.3346646).
+This series is based on our research article _[Taxing Collaborative Software Engineering](https://doi.ieeecomputersociety.org/10.1109/MS.2023.3346646)_ published as open-access at IEEE Software.
